@@ -43,6 +43,7 @@ const AboutScreen = () => {
             <Text style={styles.sectionTitle}>Contact</Text>
             <Text style={styles.paragraph}>
               For suggestions, issues, or feedback, please contact us at @capsprout2001@proton.me.
+              I by the way don't give a fuck what you suggest me to do. FUCK OFF sucker...
             </Text>
           </View>
           
