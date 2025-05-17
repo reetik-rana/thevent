@@ -39,3 +39,6 @@ node_modules/
 .expo/
 .expo-shared/
 .DS_Store
+
+#apihide
+services/firebaseConfig.js
